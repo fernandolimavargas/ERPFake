@@ -1,0 +1,16 @@
+C:\Users\fernando.vargas\Desktop\Fernando\Cadastro de Materias\Program\Cadastro de Material\bin\Debug\Cadastro de Material.exe.config
+C:\Users\fernando.vargas\Desktop\Fernando\Cadastro de Materias\Program\Cadastro de Material\bin\Debug\Cadastro de Material.exe
+C:\Users\fernando.vargas\Desktop\Fernando\Cadastro de Materias\Program\Cadastro de Material\bin\Debug\Cadastro de Material.pdb
+C:\Users\fernando.vargas\Desktop\Fernando\Cadastro de Materias\Program\Cadastro de Material\obj\Debug\Cadastro de Material.csproj.AssemblyReference.cache
+C:\Users\fernando.vargas\Desktop\Fernando\Cadastro de Materias\Program\Cadastro de Material\obj\Debug\Cadastro de Material.csproj.SuggestedBindingRedirects.cache
+C:\Users\fernando.vargas\Desktop\Fernando\Cadastro de Materias\Program\Cadastro de Material\obj\Debug\Cadastro_de_Material.Form1.resources
+C:\Users\fernando.vargas\Desktop\Fernando\Cadastro de Materias\Program\Cadastro de Material\obj\Debug\Cadastro_de_Material.Properties.Resources.resources
+C:\Users\fernando.vargas\Desktop\Fernando\Cadastro de Materias\Program\Cadastro de Material\obj\Debug\Cadastro de Material.csproj.GenerateResource.cache
+C:\Users\fernando.vargas\Desktop\Fernando\Cadastro de Materias\Program\Cadastro de Material\obj\Debug\Cadastro de Material.csproj.CoreCompileInputs.cache
+C:\Users\fernando.vargas\Desktop\Fernando\Cadastro de Materias\Program\Cadastro de Material\obj\Debug\Cadastro de Material.exe
+C:\Users\fernando.vargas\Desktop\Fernando\Cadastro de Materias\Program\Cadastro de Material\obj\Debug\Cadastro de Material.pdb
+C:\Users\fernando.vargas\Desktop\Fernando\Cadastro de Materias\Program\Cadastro de Material\bin\Debug\System.Data.SqlClient.dll
+C:\Users\fernando.vargas\Desktop\Fernando\Cadastro de Materias\Program\Cadastro de Material\bin\Debug\System.Data.SqlClient.xml
+C:\Users\fernando.vargas\Desktop\Fernando\Cadastro de Materias\Program\Cadastro de Material\obj\Debug\Cadastro de Material.csproj.CopyComplete
+C:\Users\fernando.vargas\Desktop\Fernando\Cadastro de Materias\Program\Cadastro de Material\obj\Debug\Cadastro_de_Material.MostraPesquisa.resources
+C:\Users\fernando.vargas\Desktop\Fernando\Cadastro de Materias\Program\Cadastro de Material\obj\Debug\Cadastro_de_Material.DeleteMaterial.resources
